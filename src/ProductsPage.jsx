@@ -4,7 +4,6 @@ import ProductFeaturesPage from "./ProductFeaturesPage";
 const ProductsPage = () => {
   return (
     <>
-      <div>ProductsPage</div>
       <ProductFeaturesPage />
     </>
   );
